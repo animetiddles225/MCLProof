@@ -1,0 +1,9 @@
+[{
+  "modid": "timechanger1.8",
+  "name": "TimeChanger 1.8",
+  "description": "1.8.* Port of the timechanger mod by Fyu",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "authorList": ["Fyu","2Pi"],
+  "credits": "Mod by Fyu, ported to 1.8.* by 2Pi"
+}]
